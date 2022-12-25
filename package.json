@@ -1,0 +1,11 @@
+{
+
+"scripts": {
+
+"dev": "react-scripts start",
+
+"build": "react-scripts build"
+
+}
+
+}
