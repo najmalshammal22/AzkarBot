@@ -134,4 +134,4 @@ client.on("messageCreate", async message => {
 
 
 
-client.login("Your Token Is Here");
+client.login("2046555626:AAFCCp2gwE73aqKzzKSrVST5nA57hyldB74");
